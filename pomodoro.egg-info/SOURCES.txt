@@ -1,0 +1,7 @@
+main.py
+pyproject.toml
+pomodoro.egg-info/PKG-INFO
+pomodoro.egg-info/SOURCES.txt
+pomodoro.egg-info/dependency_links.txt
+pomodoro.egg-info/entry_points.txt
+pomodoro.egg-info/top_level.txt

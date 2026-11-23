@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/pomodoro/__init__.py
+src/pomodoro/__main__.py
+src/pomodoro/cli.py
+src/pomodoro/main.py
+src/pomodoro.egg-info/PKG-INFO
+src/pomodoro.egg-info/SOURCES.txt
+src/pomodoro.egg-info/dependency_links.txt
+src/pomodoro.egg-info/entry_points.txt
+src/pomodoro.egg-info/top_level.txt
